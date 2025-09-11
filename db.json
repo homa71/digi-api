@@ -1807,6 +1807,68 @@
        { "id": 6,"type":"third", "title": " سوالی دارید؟", "link": "#" },
     { "id": 7, "type":"fourth","title": "در دیجی‌کالا بفروشید!", "link": "#" }
  
+  ],
+    "story":[
+    {"id":1,
+     "title":"پیچ‌گوشتی شارژی زیر یک تومن",
+     "image":"./public/image/story/image-1.png"
+    },
+     {"id":1,
+     "title":"مقتدر مثل بلک اند دکر",
+     "image":"./public/image/story/image-2.png"
+    },
+    {"id":1,
+     "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
+     "image":"./public/image/story/image-3.png"
+    },
+    {"id":1,
+     "title":"پیچ‌گوشتی شارژی زیر یک تومن",
+     "image":"./public/image/story/image-1.png"
+    },
+     {"id":1,
+     "title":"مقتدر مثل بلک اند دکر",
+     "image":"./public/image/story/image-2.png"
+    },
+    {"id":1,
+     "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
+     "image":"./public/image/story/image-3.png"
+    },
+    {"id":1,
+     "title":"پیچ‌گوشتی شارژی زیر یک تومن",
+     "image":"./public/image/story/image-1.png"
+    },
+     {"id":1,
+     "title":"مقتدر مثل بلک اند دکر",
+     "image":"./public/image/story/image-2.png"
+    },
+    {"id":1,
+     "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
+     "image":"./public/image/story/image-3.png"
+    },
+    {"id":1,
+     "title":"پیچ‌گوشتی شارژی زیر یک تومن",
+     "image":"./public/image/story/image-1.png"
+    },
+     {"id":1,
+     "title":"مقتدر مثل بلک اند دکر",
+     "image":"./public/image/story/image-2.png"
+    },
+    {"id":1,
+     "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
+     "image":"./public/image/story/image-3.png"
+    },{"id":1,
+     "title":"پیچ‌گوشتی شارژی زیر یک تومن",
+     "image":"./public/image/story/image-1.png"
+    },
+     {"id":1,
+     "title":"مقتدر مثل بلک اند دکر",
+     "image":"./public/image/story/image-2.png"
+    },
+    {"id":1,
+     "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
+     "image":"./public/image/story/image-3.png"
+    }
+
   ]
     
 }
