@@ -1910,6 +1910,59 @@
     "image":"./public/image/slider/slide-3.gif",
     "link":"#"
     }
+  ],
+   "category":[
+     {"id":1,
+      "image":"./public/image/category/category-1.png",
+      "title":"دریافت وام",
+      "link":"#"
+    },
+      {"id":2,
+      "image":"./public/image/category/category-2.png",
+      "title":"حراج مد و پوشاک!",
+      "link":"#"
+    },
+      {"id":3,
+      "image":"./public/image/category/category-3.png",
+      "title":"جایزه 20 میلیونی!",
+      "link":"#"
+    },
+    {"id":4,
+      "image":"./public/image/category/category-1.png",
+      "title":"دریافت وام",
+      "link":"#"
+    },
+      {"id":5,
+      "image":"./public/image/category/category-2.png",
+      "title":"حراج مد و پوشاک!",
+      "link":"#"
+    },
+      {"id":6,
+      "image":"./public/image/category/category-3.png",
+      "title":"جایزه 20 میلیونی!",
+      "link":"#"
+    },
+    {"id":7,
+      "image":"./public/image/category/category-1.png",
+      "title":"دریافت وام",
+      "link":"#"
+    },
+      {"id":8,
+      "image":"./public/image/category/category-2.png",
+      "title":"حراج مد و پوشاک!",
+      "link":"#"
+    },
+      {"id":9,
+      "image":"./public/image/category/category-3.png",
+      "title":"جایزه 20 میلیونی!",
+      "link":"#"
+    },
+      {"id":10,
+      "type":"more",
+      "title":"بیشتر",
+      "link":"#"
+    }
+    
   ]
     
 }
