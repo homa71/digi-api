@@ -1963,6 +1963,95 @@
       "link":"#"
     }
     
+  ],
+   "incredible":[
+     {"id":1,
+      "type":"first",
+      "logo":"./public/image/svg/incredible.svg",
+      "icon1":"./public/image/svg/incredble-svg-2.svg",
+      "icon2":"./public/image/svg/incredible-observe.svg",
+      "ctatext":"مشاهده همه",
+      "link":"#"
+     },
+     {"id":2,
+     "type":"second",
+     "image":"./public/image/sale/image-1.png",
+     "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+     "price":"6,349,000",
+     "oldprice":"6,765,000",
+     "badge":"6%",
+     "icon":"./public/image/svg/tooman.svg",
+     "link":"#"
+     },
+      {"id":3,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":4,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":5,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":6,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":7,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":8,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":9,
+      "image":"./public/image/sale/image-1.png",
+      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price":"6,349,000",
+      "oldprice":"6,765,000",
+      "badge":"6%",
+      "icon":"./public/image/svg/tooman.svg",
+      "link":"#"
+     },
+      {"id":10,
+      "type":"last",
+       "icon":"./public/image/svg/observ-arrow-black.svg",
+       "ctatext":"مشاهده همه",
+       "link":"#"
+     }
   ]
     
 }
