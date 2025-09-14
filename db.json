@@ -2052,6 +2052,125 @@
        "ctatext":"مشاهده همه",
        "link":"#"
      }
+  ],"product":[
+     {
+      "id":0,
+      "type":"top",
+      "title":" خرید بر اساس دسته‌بندی"
+     },
+    {
+      "id":1,
+      "image":"./public/image/product/product-1.png",
+      "alt":"موبایل",
+      "title":"موبایل",
+      "link":"#"
+    },
+     {
+      "id":2,
+      "image":"./public/image/product/product-2.png",
+      "alt":"  کالای دیجیتال",
+      "title":"  کالای دیجیتال",
+      "link":"#"
+    },
+    {
+      "id":3,
+      "image":"./public/image/product/product-1.png",
+      "alt":"موبایل",
+      "title":"موبایل",
+      "link":"#"
+    },
+     {
+      "id":4,
+      "image":"./public/image/product/product-2.png",
+      "alt":"  کالای دیجیتال",
+      "title":"  کالای دیجیتال",
+      "link":"#"
+    },
+    {
+      "id":5,
+      "image":"./public/image/product/product-1.png",
+      "alt":"موبایل",
+      "title":"موبایل",
+      "link":"#"
+    },
+     {
+      "id":6,
+      "image":"./public/image/product/product-2.png",
+      "alt":"  کالای دیجیتال",
+      "title":"  کالای دیجیتال",
+      "link":"#"
+    },
+    {
+      "id":7,
+      "image":"./public/image/product/product-1.png",
+      "alt":"موبایل",
+      "title":"موبایل",
+      "link":"#"
+    },
+     {
+      "id":8,
+      "image":"./public/image/product/product-2.png",
+      "alt":"  کالای دیجیتال",
+      "title":"  کالای دیجیتال",
+      "link":"#"
+    },
+    {
+      "id":9,
+      "image":"./public/image/product/product-3.png",
+      "alt":"ورزش و سفر",
+      "title":"ورزش و سفر",
+      "link":"#"
+    },
+     {
+      "id":10,
+      "image":"./public/image/product/product-4.png",
+      "alt":"  خودرو و موتورسیکلت ",
+      "title":"  خودرو و موتورسیکلت",
+      "link":"#"
+    },
+     {
+      "id":11,
+      "image":"./public/image/product/product-3.png",
+      "alt":"ورزش و سفر",
+      "title":"ورزش و سفر",
+      "link":"#"
+    },
+     {
+      "id":12,
+      "image":"./public/image/product/product-4.png",
+      "alt":"  خودرو و موتورسیکلت ",
+      "title":"  خودرو و موتورسیکلت",
+      "link":"#"
+    },
+     {
+      "id":13,
+      "image":"./public/image/product/product-3.png",
+      "alt":"ورزش و سفر",
+      "title":"ورزش و سفر",
+      "link":"#"
+    },
+     {
+      "id":14,
+      "image":"./public/image/product/product-4.png",
+      "alt":"  خودرو و موتورسیکلت ",
+      "title":"  خودرو و موتورسیکلت",
+      "link":"#"
+    },
+     {
+      "id":15,
+      "image":"./public/image/product/product-3.png",
+      "alt":"ورزش و سفر",
+      "title":"ورزش و سفر",
+      "link":"#"
+    },
+     {
+      "id":16,
+      "image":"./public/image/product/product-4.png",
+      "alt":"  خودرو و موتورسیکلت ",
+      "title":"  خودرو و موتورسیکلت",
+      "link":"#"
+    }
+    
   ]
     
 }
