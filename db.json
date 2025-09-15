@@ -2171,6 +2171,106 @@
       "link":"#"
     }
     
+  ],
+  "gallery":[
+    {
+      "id":1,
+      "title": "کیف و کاور گوشی",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"src": "./public/image/gallery/gallery-1.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-2.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-3.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-4.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./public/image/svg/gallery-observ.svg"
+   }
+},
+ {
+      "id":2,
+      "title": "گوشی موبایل",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"src": "./public/image/gallery/gallery-5.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-6.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-7.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-8.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./public/image/svg/gallery-observ.svg"
+   }
+},
+   {
+      "id":3,
+      "title": "کیف و کاور گوشی",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"src": "./public/image/gallery/gallery-1.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-2.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-3.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-4.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./public/image/svg/gallery-observ.svg"
+   }
+},
+ {
+      "id":4,
+      "type":"last",
+      "title": "گوشی موبایل",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"src": "./public/image/gallery/gallery-5.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-6.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-7.png",
+         "link":"#"
+         },
+         {"src": "./public/image/gallery/gallery-8.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./public/image/svg/gallery-observ.svg"
+   }
+}
+
   ]
     
 }
