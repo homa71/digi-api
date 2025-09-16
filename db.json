@@ -2271,6 +2271,199 @@
    }
 }
 
-  ]
+  ],
+   "best":[
+  {
+    "id":1,
+    "type":"top",
+    "title":"پرفروش‌ترین کالاها",
+    "svg":"./public/image/svg/best.svg",
+    "cta":{
+      "text":"مشاهده همه",
+      "link":"#"
+    }
+  },
+  {
+    "id":2,
+    "type":"bottom",
+    "slides":[
+      {"id":1,
+       "cards":[
+          {
+            "id":1,
+             "image":"./public/image/best/image-1.png",
+             "number":"1",
+             "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./public/image/best/image-2.png",
+             "number":"2",
+             "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./public/image/best/image-3.png",
+            "number":"3",
+            "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+       {"id":2,
+       "cards":[
+          {
+            "id":1,
+             "image":"./public/image/best/image-1.png",
+             "number":"1",
+             "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./public/image/best/image-2.png",
+             "number":"2",
+             "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./public/image/best/image-3.png",
+            "number":"3",
+            "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":3,
+       "cards":[
+          {
+            "id":1,
+             "image":"./public/image/best/image-1.png",
+             "number":"1",
+             "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./public/image/best/image-2.png",
+             "number":"2",
+             "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./public/image/best/image-3.png",
+            "number":"3",
+            "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":4,
+       "cards":[
+          {
+            "id":1,
+             "image":"./public/image/best/image-1.png",
+             "number":"1",
+             "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./public/image/best/image-2.png",
+             "number":"2",
+             "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./public/image/best/image-3.png",
+            "number":"3",
+            "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":5,
+       "cards":[
+          {
+            "id":1,
+             "image":"./public/image/best/image-1.png",
+             "number":"1",
+             "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./public/image/best/image-2.png",
+             "number":"2",
+             "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./public/image/best/image-3.png",
+            "number":"3",
+            "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":6,
+       "cards":[
+          {
+            "id":1,
+             "image":"./public/image/best/image-1.png",
+             "number":"1",
+             "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./public/image/best/image-2.png",
+             "number":"2",
+             "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./public/image/best/image-3.png",
+            "number":"3",
+            "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      }
+    ]
+  }
+ ]
+
     
 }
