@@ -2463,7 +2463,262 @@
       }
     ]
   }
- ]
+ ],
+  "footer":{
+    "goup":{
+      "logo":"./public/image/svg/header-serch-logo.svg",
+      "cta":{
+          "text":"بازگشت به بالا",
+          "svg":"./public/image/svg/footer-up-arrow.svg"
+      }
+     },
+    "tell":{
+         "phone":["۶۱۹۳۰۰۰۰ - ۰۲۱","۰۲۱-۹۱۰۰۰۱۰۰"],
+         "text":["تلفن پشتیبانی","۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم"]
+    },
+    "guide":[
+      { 
+        "id":1,
+        "title":"امکان تحویل اکسپرس",
+        "icon":"./public/image/svg/footer-express.svg",
+        "link":"#"
+      },
+       { 
+        "id":2,
+        "title":"امکان پرداخت در محل",
+        "icon":"./public/image/svg/footer-payment.svg",
+        "link":"#"
+      },
+        { 
+        "id":3,
+        "title":"۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
+        "icon":"./public/image/svg/footer-response.svg",
+        "link":"#"
+      },
+        { 
+        "id":4,
+        "title":"هفت روز ضمانت بازگشت کالا",
+        "icon":"./public/image/svg/footer-return.svg",
+        "link":"#"
+      },
+        { 
+        "id":5,
+        "title":"ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ",
+        "icon":"./public/image/svg/footer-original.svg",
+        "link":"#"
+      }
+    ],
+    "menu":[
+      {
+        "id":1,
+        "title":"با دیجی‌کالا",
+        "items":[
+          {
+            "id":1,
+            "text":"اتاق خبر دیجی‌کالا",
+            "link":"#"
+          },
+          {
+            "id":2,
+            "text":"فروش در دیجی‌کالا",
+            "link":"#"
+          },
+          {
+            "id":3,
+            "text":"فرصت‌های شغلی",
+            "link":"#"
+          },
+          {
+            "id":4,
+            "text":"گزارش تخلف در دیجی‌کالا",
+            "link":"#"
+          },
+          {
+            "id":5,
+            "text":"تماس با دیجی‌کالا",
+            "link":"#"
+          },
+          {
+            "id":6,
+            "text":"درباره دیجی‌کالا",
+            "link":"#"
+          }
+
+        ]
+      },
+      {
+        "id":2,
+        "title":"خدمات مشتریان",
+        "items":[
+          {
+            "id":1,
+            "text":"پاسخ به پرسش ‌های متداول",
+            "link":"#"
+          },
+          {
+            "id":2,
+            "text":"رویه‌های بازگرداندن کالا",
+            "link":"#"
+          },
+          {
+            "id":3,
+            "text":"شرایط استفاده",
+            "link":"#"
+          },
+          {
+            "id":4,
+            "text":"حریم خصوصی",
+            "link":"#"
+          },
+          {
+            "id":5,
+            "text":"  گزارش باگ",
+            "link":"#"
+          }         
+        ]
+      },
+       {
+        "id":3,
+        "title":"راهنمای خرید از دیجی‌کالا",
+        "items":[
+          {
+            "id":1,
+            "text":"نحوه ثبت سفارش",
+            "link":"#"
+          },
+          {
+            "id":2,
+            "text":"رویه ارسال سفارش",
+            "link":"#"
+          },
+          {
+            "id":3,
+            "text":"شیوه‌های پرداخت",
+            "link":"#"
+          }         
+        ]
+      },
+         {
+        "id":4,
+        "type":"last",
+        "title":"همراه ما باشید!",
+        "social":[
+          {"id":1,"icon":"./public/image/svg/insta.svg","link":"#"},
+          {"id":2,"icon":"./public/image/svg/twitt.svg","link":"#"},
+          {"id":3,"icon":"./public/image/svg/linkedin.svg","link":"#"},
+          {"id":4,"icon":"./public/image/svg/aparat.svg","link":"#"}
+        ],
+        "email":{
+          "title":"با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید",
+          "placeholder":"ایمیل شما",
+          "button":"ثبت"
+        }
+     }
+   ],
+   "app":{
+    "logo":"./public/image/app/app-logo.png",
+    "title":"دانلود اپلیکیشن دیجی‌کالا",
+    "links": [
+        {"id":0 ,"store": "bazzar", "icon": "./public/image/svg/app-bazzar.svg", "link": "#" },
+        {"id":1 , "store": "myket", "icon": "./public/image/svg/app-myket.svg", "link": "#" },
+        {"id":2 , "store": "sib", "icon": "./public/image/svg/app-sib.svg", "link": "#" },
+        {"id":3 , "store": "more", "icon": "./public/image/svg/app-More.svg", "link": "#" }
+      ]
+
+   },
+   "explanation":{
+    "title":"فروشگاه اینترنتی دیجی‌کالا، بررسی، انتخاب و خرید آنلاین",
+    "description":"یک خرید اینترنتی مطمئن، نیازمند فروشگاهی است که بتواند کالاهایی متنوع، باکیفیت و دارای قیمت مناسب را در مدت زمان ی کوتاه به دست مشتریان خود برساند و ضمانت بازگشت کالا هم داشته باشد؛ ویژگی‌هایی که فروشگاه اینترنتی دیجی‌کالا سال‌هاست بر روی آن‌ها کار کرده و توانسته از این طریق مشتریان ثابت خود را داشته باشد",
+    "descriptionlight":"یکی از مهم‌ترین دغدغه‌های کاربران دیجی‌کالا یا هر فروشگاه‌ اینترنتی دیگری، این است که کالای  خریداری شده چه زمانی به دستشان می‌رسد. دیجی‌کالا شیوه‌های مختلفی از ارسال را متناسب با فروشنده کالا،‌ مقصد کالا و   همچنین نوع کالا در اختیار کاربران خود قرار می‌دهد...",
+    "cta":{
+      "text":"مشاهده بیشتر",
+      "svg":"./public/image/svg/gallery-observ.svg",
+      "link":"#"    
+    },
+    "icons":[
+      {
+        "id":0,
+        "img": "./public/image/footer-explanation/rezi.png",
+        "alt": "rezi",
+        "link": "#"
+      },
+      {
+        "id":1,
+        "img": "./public/image/footer-explanation/kasbokar.png",
+        "alt": "kasbokar",
+        "link": "#"
+      },
+      {
+        "id":3,
+        "img": "https://Trustseal.eNamad.ir/logo.aspx?id=19077&Code=sScdOJOzhFxtcEqkjP7P",
+        "alt": "enamad",
+        "link": "#"
+      }
+    ]
+   },
+   "rule":"برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق اين وب‌سايت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است.",
+   "partners":[
+     {"id":0,
+      "img":"./public/image/svg/digimag.svg",
+      "alt":"mag",
+      "link":"#"
+     },
+     {"id":1,
+      "img":"./public/image/svg/digipay.svg",
+      "alt":"pay",
+      "link":"#"
+     },{"id":2,
+      "img":"./public/image/svg/digistyle.svg",
+      "alt":"style",
+      "link":"#"
+     },{"id":3,
+      "img":"./public/image/svg/digiplus.svg",
+      "alt":"plus",
+      "link":"#"
+     },{"id":4,
+      "img":"./public/image/svg/digiclub.svg",
+      "alt":"club",
+      "link":"#"
+     },{"id":5,
+      "img":"./public/image/svg/digijet.svg",
+      "alt":"jet",
+      "link":"#"
+     },{"id":6,
+      "img":"./public/image/svg/digiMehr.svg",
+      "alt":"mehr",
+      "link":"#"
+     },{"id":7,
+      "img":"./public/image/svg/diginext.svg",
+      "alt":"next",
+      "link":"#"
+     },{"id":8,
+      "img":"./public/image/svg/digiexpress.svg",
+      "alt":"express",
+      "link":"#"
+     },{"id":9,
+      "img":"./public/image/svg/ganjeh.svg",
+      "alt":"ganjeh",
+      "link":"#"
+     },{"id":10,
+      "img":"./public/image/svg/digify.svg",
+      "alt":"digify",
+      "link":"#"
+     },{"id":11,
+      "img":"./public/image/svg/smartech.svg",
+      "alt":"smartech",
+      "link":"#"
+     },{"id":12,
+      "img":"./public/image/svg/digikala-business.svg",
+      "alt":"business",
+      "link":"#"
+     },{"id":13,
+      "img":"./public/image/svg/digikala-service.svg",
+      "alt":"service",
+      "link":"#"
+     }
+   ]
+ }
+
 
     
 }
