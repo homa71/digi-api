@@ -3,17 +3,17 @@
         {"id":1,"image":"./image/header-banner/header-banner-gif.gif","alt":"banner"}
     ],
       "slogo":[
-        {"id":1,"image":"./public/image/svg/header-serch-logo.svg","alt":"logo"}
+        {"id":1,"image":"./image/svg/header-serch-logo.svg","alt":"logo"}
     ],
     "sregister":[
-        {"id":1,"image1":"./public/image/svg/header-serch-register-arrow.svg","alt1":"arrow-svg","title1":"ورود","title2":"ثبت‌نام","image2":"./public/image/svg/header-serch-register.basket.svg","alt2":"basket-svg"}
+        {"id":1,"image1":"./image/svg/header-serch-register-arrow.svg","alt1":"arrow-svg","title1":"ورود","title2":"ثبت‌نام","image2":"./image/svg/header-serch-register.basket.svg","alt2":"basket-svg"}
     ],
     "menur": [
 
     {
         "id": 0,
       "type":"first",
-      "image": "./public/image/svg/header-menu-right-bars.svg",
+      "image": "./image/svg/header-menu-right-bars.svg",
       "alt": "bars-svg",
       "title": "دسته‌بندی کالاها",
       "link": "#",
@@ -31,7 +31,7 @@
         "top":{
           "id":1,
           "title":" همه محصولات موبایل",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -39,7 +39,7 @@
               {
                 "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -54,7 +54,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -69,7 +69,7 @@
           {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -84,7 +84,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -99,7 +99,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -114,7 +114,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -129,7 +129,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -144,7 +144,7 @@
               {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -172,7 +172,7 @@
         "top":{
           "id":2,
           "title":" همه محصولات کالای دیجیتال",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -180,7 +180,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -195,7 +195,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -210,7 +210,7 @@
            {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -225,7 +225,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -242,7 +242,7 @@
              {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -257,7 +257,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -273,7 +273,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -288,7 +288,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -316,7 +316,7 @@
         "top":{
           "id":3,
           "title":" همه محصولات لپ‌تاپ",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -324,7 +324,7 @@
               {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -338,7 +338,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -356,7 +356,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -370,7 +370,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -389,7 +389,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -403,7 +403,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -421,7 +421,7 @@
              {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -435,7 +435,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -466,7 +466,7 @@
         "top":{
           "id":1,
           "title":" همه محصولات موبایل",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -474,7 +474,7 @@
               {
                 "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -489,7 +489,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -504,7 +504,7 @@
           {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -519,7 +519,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -534,7 +534,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -549,7 +549,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -564,7 +564,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -579,7 +579,7 @@
               {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -607,7 +607,7 @@
         "top":{
           "id":2,
           "title":" همه محصولات کالای دیجیتال",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -615,7 +615,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -630,7 +630,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -645,7 +645,7 @@
            {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -660,7 +660,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -677,7 +677,7 @@
              {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -692,7 +692,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -708,7 +708,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -723,7 +723,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -751,7 +751,7 @@
         "top":{
           "id":3,
           "title":" همه محصولات لپ‌تاپ",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -759,7 +759,7 @@
               {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -773,7 +773,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -791,7 +791,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -805,7 +805,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -824,7 +824,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -838,7 +838,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -856,7 +856,7 @@
              {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -870,7 +870,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -901,7 +901,7 @@
         "top":{
           "id":1,
           "title":" همه محصولات موبایل",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -909,7 +909,7 @@
               {
                 "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -924,7 +924,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -939,7 +939,7 @@
           {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -954,7 +954,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -969,7 +969,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -984,7 +984,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -999,7 +999,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1014,7 +1014,7 @@
               {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1042,7 +1042,7 @@
         "top":{
           "id":2,
           "title":" همه محصولات کالای دیجیتال",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -1050,7 +1050,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1065,7 +1065,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1080,7 +1080,7 @@
            {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1095,7 +1095,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1112,7 +1112,7 @@
              {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1127,7 +1127,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1143,7 +1143,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1158,7 +1158,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1186,7 +1186,7 @@
         "top":{
           "id":3,
           "title":" همه محصولات لپ‌تاپ",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -1194,7 +1194,7 @@
               {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1208,7 +1208,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1226,7 +1226,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1240,7 +1240,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1259,7 +1259,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1273,7 +1273,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1291,7 +1291,7 @@
              {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1305,7 +1305,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1336,7 +1336,7 @@
         "top":{
           "id":1,
           "title":" همه محصولات موبایل",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -1344,7 +1344,7 @@
               {
                 "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1359,7 +1359,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1374,7 +1374,7 @@
           {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1389,7 +1389,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1404,7 +1404,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1419,7 +1419,7 @@
             {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1434,7 +1434,7 @@
              {
               "header":{
                 "title":"برندهای مختلف گوشی موبایل",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1449,7 +1449,7 @@
               {
                 "header":{
                 "title":" برندهای برتر",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1477,7 +1477,7 @@
         "top":{
           "id":2,
           "title":" همه محصولات کالای دیجیتال",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -1485,7 +1485,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1500,7 +1500,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1515,7 +1515,7 @@
            {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1530,7 +1530,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1547,7 +1547,7 @@
              {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1562,7 +1562,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1578,7 +1578,7 @@
               {
                 "header":{
                 "title":"لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1593,7 +1593,7 @@
             {
                 "header":{
                 "title":" لوازم جانبی لپ‌تاپ",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1621,7 +1621,7 @@
         "top":{
           "id":3,
           "title":" همه محصولات لپ‌تاپ",
-          "icon":"./public/image/svg/gallery-observ.svg",
+          "icon":"./image/svg/gallery-observ.svg",
           "link": "#"
         },
           "children": {
@@ -1629,7 +1629,7 @@
               {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1643,7 +1643,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1661,7 +1661,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1675,7 +1675,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1694,7 +1694,7 @@
             {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1708,7 +1708,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1726,7 +1726,7 @@
              {
                 "header":{
                 "title":" لپ‌تاپ ایسوس",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
               "items":[
@@ -1740,7 +1740,7 @@
             {
                 "header":{
                 "title":" لپ تاپ لنوو",
-                "icon":"./public/image/svg/observ-arrow-black.svg",
+                "icon":"./image/svg/observ-arrow-black.svg",
                 "link":"#"
               },
             "items":[
@@ -1767,7 +1767,7 @@
     {
       "id": 1,
       "type":"third",
-      "image": "./public/image/svg/header-menu-right-percent.svg",
+      "image": "./image/svg/header-menu-right-percent.svg",
       "alt": "percent-svg",
       "title": " شگفت‌انگیز‌ها",
       "link": "#"
@@ -1775,7 +1775,7 @@
     {
       "id": 2,
       "type":"second",
-      "image": "./public/image/svg/header-menu-right-basket.svg",
+      "image": "./image/svg/header-menu-right-basket.svg",
       "alt": "basket-svg",
       "title": "  سوپر‌مارکت",
       "link": "#"
@@ -1783,7 +1783,7 @@
     {
       "id": 3,
       "type":"second",
-      "image": "./public/image/svg/header-menu-right-gift.svg",
+      "image": "./image/svg/header-menu-right-gift.svg",
       "alt": "gift-svg",
       "title": "    کارت‌هدیه",
       "link": "#"
@@ -1791,7 +1791,7 @@
     {
       "id": 4,
       "type":"second",
-      "image": "./public/image/svg/header-menu-right-best.svg",
+      "image": "./image/svg/header-menu-right-best.svg",
       "alt": "best-svg",
       "title": "      پرفروش‌ترین‌ها",
       "link": "#"
@@ -1799,7 +1799,7 @@
     {
       "id": 5,
       "type":"second",
-      "image": "./public/image/svg/header-menu-right-0percent.svg",
+      "image": "./image/svg/header-menu-right-0percent.svg",
       "alt": "0percent-svg",
       "title": "      تخفیف‌ها و پیشنهاد‌ها",
       "link": "#"
@@ -1811,149 +1811,149 @@
     "story":[
     {"id":1,
      "title":"پیچ‌گوشتی شارژی زیر یک تومن",
-     "image":"./public/image/story/image-1.png",
+     "image":"./image/story/image-1.png",
      "link":"#"
     },
      {"id":2,
      "title":"مقتدر مثل بلک اند دکر",
-     "image":"./public/image/story/image-2.png",
+     "image":"./image/story/image-2.png",
      "link":"#"
     },
     {"id":3,
      "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
-     "image":"./public/image/story/image-3.png",
+     "image":"./image/story/image-3.png",
      "link":"#"
     },
     {"id":4,
      "title":"پیچ‌گوشتی شارژی زیر یک تومن",
-     "image":"./public/image/story/image-1.png",
+     "image":"./image/story/image-1.png",
      "link":"#"
     },
      {"id":5,
      "title":"مقتدر مثل بلک اند دکر",
-     "image":"./public/image/story/image-2.png",
+     "image":"./image/story/image-2.png",
      "link":"#"
     },
     {"id":6,
      "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
-     "image":"./public/image/story/image-3.png",
+     "image":"./image/story/image-3.png",
      "link":"#"
     },
     {"id":7,
      "title":"پیچ‌گوشتی شارژی زیر یک تومن",
-     "image":"./public/image/story/image-1.png",
+     "image":"./image/story/image-1.png",
      "link":"#"
     },
      {"id":8,
      "title":"مقتدر مثل بلک اند دکر",
-     "image":"./public/image/story/image-2.png",
+     "image":"./image/story/image-2.png",
      "link":"#"
     },
     {"id":9,
      "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
-     "image":"./public/image/story/image-3.png",
+     "image":"./image/story/image-3.png",
      "link":"#"
     },
     {"id":10,
      "title":"پیچ‌گوشتی شارژی زیر یک تومن",
-     "image":"./public/image/story/image-1.png",
+     "image":"./image/story/image-1.png",
      "link":"#"
     },
      {"id":11,
      "title":"مقتدر مثل بلک اند دکر",
-     "image":"./public/image/story/image-2.png",
+     "image":"./image/story/image-2.png",
      "link":"#"
     },
     {"id":12,
      "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
-     "image":"./public/image/story/image-3.png"
+     "image":"./image/story/image-3.png"
     },
     {"id":13,
      "title":"پیچ‌گوشتی شارژی زیر یک تومن",
-     "image":"./public/image/story/image-1.png",
+     "image":"./image/story/image-1.png",
      "link":"#"
     },
      {"id":14,
      "title":"مقتدر مثل بلک اند دکر",
-     "image":"./public/image/story/image-2.png",
+     "image":"./image/story/image-2.png",
      "link":"#"
     },
     {"id":15,
      "title":"تقویت سیستم ایمنی بدن با شربت ایمیونس",
-     "image":"./public/image/story/image-3.png",
+     "image":"./image/story/image-3.png",
      "link":"#"
     }
 
   ],
    "slider":[
     {"id":1,
-    "image":"./public/image/slider/slide-1.gif",
+    "image":"./image/slider/slide-1.gif",
     "link":"#"
     },
      {"id":2,
-    "image":"./public/image/slider/slide-2.gif",
+    "image":"./image/slider/slide-2.gif",
     "link":"#"
     },
      {"id":3,
-    "image":"./public/image/slider/slide-3.gif",
+    "image":"./image/slider/slide-3.gif",
     "link":"#"
     },
      {"id":4,
-    "image":"./public/image/slider/slide-1.gif",
+    "image":"./image/slider/slide-1.gif",
     "link":"#"
     },
      {"id":5,
-    "image":"./public/image/slider/slide-2.gif",
+    "image":"./image/slider/slide-2.gif",
     "link":"#"
     },
      {"id":6,
-    "image":"./public/image/slider/slide-3.gif",
+    "image":"./image/slider/slide-3.gif",
     "link":"#"
     }
   ],
    "category":[
      {"id":1,
-      "image":"./public/image/category/category-1.png",
+      "image":"./image/category/category-1.png",
       "title":"دریافت وام",
       "link":"#"
     },
       {"id":2,
-      "image":"./public/image/category/category-2.png",
+      "image":"./image/category/category-2.png",
       "title":"حراج مد و پوشاک!",
       "link":"#"
     },
       {"id":3,
-      "image":"./public/image/category/category-3.png",
+      "image":"./image/category/category-3.png",
       "title":"جایزه 20 میلیونی!",
       "link":"#"
     },
     {"id":4,
-      "image":"./public/image/category/category-1.png",
+      "image":"./image/category/category-1.png",
       "title":"دریافت وام",
       "link":"#"
     },
       {"id":5,
-      "image":"./public/image/category/category-2.png",
+      "image":"./image/category/category-2.png",
       "title":"حراج مد و پوشاک!",
       "link":"#"
     },
       {"id":6,
-      "image":"./public/image/category/category-3.png",
+      "image":"./image/category/category-3.png",
       "title":"جایزه 20 میلیونی!",
       "link":"#"
     },
     {"id":7,
-      "image":"./public/image/category/category-1.png",
+      "image":"./image/category/category-1.png",
       "title":"دریافت وام",
       "link":"#"
     },
       {"id":8,
-      "image":"./public/image/category/category-2.png",
+      "image":"./image/category/category-2.png",
       "title":"حراج مد و پوشاک!",
       "link":"#"
     },
       {"id":9,
-      "image":"./public/image/category/category-3.png",
+      "image":"./image/category/category-3.png",
       "title":"جایزه 20 میلیونی!",
       "link":"#"
     },
@@ -1967,88 +1967,88 @@
    "incredible":[
      {"id":1,
       "type":"first",
-      "logo":"./public/image/svg/incredible.svg",
-      "icon1":"./public/image/svg/incredble-svg-2.svg",
-      "icon2":"./public/image/svg/incredible-observe.svg",
+      "logo":"./image/svg/incredible.svg",
+      "icon1":"./image/svg/incredble-svg-2.svg",
+      "icon2":"./image/svg/incredible-observe.svg",
       "ctatext":"مشاهده همه",
       "link":"#"
      },
      {"id":2,
      "type":"second",
-     "image":"./public/image/sale/image-1.png",
+     "image":"./image/sale/image-1.png",
      "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
      "price":"6,349,000",
      "oldprice":"6,765,000",
      "badge":"6%",
-     "icon":"./public/image/svg/tooman.svg",
+     "icon":"./image/svg/tooman.svg",
      "link":"#"
      },
       {"id":3,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":4,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":5,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":6,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":7,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":8,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":9,
-      "image":"./public/image/sale/image-1.png",
+      "image":"./image/sale/image-1.png",
       "title":" گوشی موبایل وکال مدل V1 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
       "price":"6,349,000",
       "oldprice":"6,765,000",
       "badge":"6%",
-      "icon":"./public/image/svg/tooman.svg",
+      "icon":"./image/svg/tooman.svg",
       "link":"#"
      },
       {"id":10,
       "type":"last",
-       "icon":"./public/image/svg/observ-arrow-black.svg",
+       "icon":"./image/svg/observ-arrow-black.svg",
        "ctatext":"مشاهده همه",
        "link":"#"
      }
@@ -2060,112 +2060,112 @@
      },
     {
       "id":1,
-      "image":"./public/image/product/product-1.png",
+      "image":"./image/product/product-1.png",
       "alt":"موبایل",
       "title":"موبایل",
       "link":"#"
     },
      {
       "id":2,
-      "image":"./public/image/product/product-2.png",
+      "image":"./image/product/product-2.png",
       "alt":"  کالای دیجیتال",
       "title":"  کالای دیجیتال",
       "link":"#"
     },
     {
       "id":3,
-      "image":"./public/image/product/product-1.png",
+      "image":"./image/product/product-1.png",
       "alt":"موبایل",
       "title":"موبایل",
       "link":"#"
     },
      {
       "id":4,
-      "image":"./public/image/product/product-2.png",
+      "image":"./image/product/product-2.png",
       "alt":"  کالای دیجیتال",
       "title":"  کالای دیجیتال",
       "link":"#"
     },
     {
       "id":5,
-      "image":"./public/image/product/product-1.png",
+      "image":"./image/product/product-1.png",
       "alt":"موبایل",
       "title":"موبایل",
       "link":"#"
     },
      {
       "id":6,
-      "image":"./public/image/product/product-2.png",
+      "image":"./image/product/product-2.png",
       "alt":"  کالای دیجیتال",
       "title":"  کالای دیجیتال",
       "link":"#"
     },
     {
       "id":7,
-      "image":"./public/image/product/product-1.png",
+      "image":"./image/product/product-1.png",
       "alt":"موبایل",
       "title":"موبایل",
       "link":"#"
     },
      {
       "id":8,
-      "image":"./public/image/product/product-2.png",
+      "image":"./image/product/product-2.png",
       "alt":"  کالای دیجیتال",
       "title":"  کالای دیجیتال",
       "link":"#"
     },
     {
       "id":9,
-      "image":"./public/image/product/product-3.png",
+      "image":"./image/product/product-3.png",
       "alt":"ورزش و سفر",
       "title":"ورزش و سفر",
       "link":"#"
     },
      {
       "id":10,
-      "image":"./public/image/product/product-4.png",
+      "image":"./image/product/product-4.png",
       "alt":"  خودرو و موتورسیکلت ",
       "title":"  خودرو و موتورسیکلت",
       "link":"#"
     },
      {
       "id":11,
-      "image":"./public/image/product/product-3.png",
+      "image":"./image/product/product-3.png",
       "alt":"ورزش و سفر",
       "title":"ورزش و سفر",
       "link":"#"
     },
      {
       "id":12,
-      "image":"./public/image/product/product-4.png",
+      "image":"./image/product/product-4.png",
       "alt":"  خودرو و موتورسیکلت ",
       "title":"  خودرو و موتورسیکلت",
       "link":"#"
     },
      {
       "id":13,
-      "image":"./public/image/product/product-3.png",
+      "image":"./image/product/product-3.png",
       "alt":"ورزش و سفر",
       "title":"ورزش و سفر",
       "link":"#"
     },
      {
       "id":14,
-      "image":"./public/image/product/product-4.png",
+      "image":"./image/product/product-4.png",
       "alt":"  خودرو و موتورسیکلت ",
       "title":"  خودرو و موتورسیکلت",
       "link":"#"
     },
      {
       "id":15,
-      "image":"./public/image/product/product-3.png",
+      "image":"./image/product/product-3.png",
       "alt":"ورزش و سفر",
       "title":"ورزش و سفر",
       "link":"#"
     },
      {
       "id":16,
-      "image":"./public/image/product/product-4.png",
+      "image":"./image/product/product-4.png",
       "alt":"  خودرو و موتورسیکلت ",
       "title":"  خودرو و موتورسیکلت",
       "link":"#"
@@ -2178,23 +2178,23 @@
       "title": "کیف و کاور گوشی",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./public/image/gallery/gallery-1.png",
+        {"src": "./image/gallery/gallery-1.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-2.png",
+         {"src": "./image/gallery/gallery-2.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-3.png",
+         {"src": "./image/gallery/gallery-3.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-4.png",
+         {"src": "./image/gallery/gallery-4.png",
          "link":"#"
          }
      ],
     "cta": {
     "text": "مشاهده",
     "link": "#",
-    "svg": "./public/image/svg/gallery-observ.svg"
+    "svg": "./image/svg/gallery-observ.svg"
    }
 },
  {
@@ -2202,23 +2202,23 @@
       "title": "گوشی موبایل",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./public/image/gallery/gallery-5.png",
+        {"src": "./image/gallery/gallery-5.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-6.png",
+         {"src": "./image/gallery/gallery-6.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-7.png",
+         {"src": "./image/gallery/gallery-7.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-8.png",
+         {"src": "./image/gallery/gallery-8.png",
          "link":"#"
          }
      ],
     "cta": {
     "text": "مشاهده",
     "link": "#",
-    "svg": "./public/image/svg/gallery-observ.svg"
+    "svg": "./image/svg/gallery-observ.svg"
    }
 },
    {
@@ -2226,23 +2226,23 @@
       "title": "کیف و کاور گوشی",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./public/image/gallery/gallery-1.png",
+        {"src": "./image/gallery/gallery-1.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-2.png",
+         {"src": "./image/gallery/gallery-2.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-3.png",
+         {"src": "./image/gallery/gallery-3.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-4.png",
+         {"src": "./image/gallery/gallery-4.png",
          "link":"#"
          }
      ],
     "cta": {
     "text": "مشاهده",
     "link": "#",
-    "svg": "./public/image/svg/gallery-observ.svg"
+    "svg": "./image/svg/gallery-observ.svg"
    }
 },
  {
@@ -2251,23 +2251,23 @@
       "title": "گوشی موبایل",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./public/image/gallery/gallery-5.png",
+        {"src": "./image/gallery/gallery-5.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-6.png",
+         {"src": "./image/gallery/gallery-6.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-7.png",
+         {"src": "./image/gallery/gallery-7.png",
          "link":"#"
          },
-         {"src": "./public/image/gallery/gallery-8.png",
+         {"src": "./image/gallery/gallery-8.png",
          "link":"#"
          }
      ],
     "cta": {
     "text": "مشاهده",
     "link": "#",
-    "svg": "./public/image/svg/gallery-observ.svg"
+    "svg": "./image/svg/gallery-observ.svg"
    }
 }
 
@@ -2277,7 +2277,7 @@
     "id":1,
     "type":"top",
     "title":"پرفروش‌ترین کالاها",
-    "svg":"./public/image/svg/best.svg",
+    "svg":"./image/svg/best.svg",
     "cta":{
       "text":"مشاهده همه",
       "link":"#"
@@ -2291,14 +2291,14 @@
        "cards":[
           {
             "id":1,
-             "image":"./public/image/best/image-1.png",
+             "image":"./image/best/image-1.png",
              "number":"1",
              "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
              "link":"#" 
           },
            {
             "id":2,
-             "image":"./public/image/best/image-2.png",
+             "image":"./image/best/image-2.png",
              "number":"2",
              "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
              "link":"#" 
@@ -2306,7 +2306,7 @@
            {
             "id":3,
             "type":"last",
-            "image":"./public/image/best/image-3.png",
+            "image":"./image/best/image-3.png",
             "number":"3",
             "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
             "link":"#" 
@@ -2320,14 +2320,14 @@
        "cards":[
           {
             "id":1,
-             "image":"./public/image/best/image-1.png",
+             "image":"./image/best/image-1.png",
              "number":"1",
              "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
              "link":"#" 
           },
            {
             "id":2,
-             "image":"./public/image/best/image-2.png",
+             "image":"./image/best/image-2.png",
              "number":"2",
              "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
              "link":"#" 
@@ -2335,7 +2335,7 @@
            {
             "id":3,
             "type":"last",
-            "image":"./public/image/best/image-3.png",
+            "image":"./image/best/image-3.png",
             "number":"3",
             "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
             "link":"#" 
@@ -2349,14 +2349,14 @@
        "cards":[
           {
             "id":1,
-             "image":"./public/image/best/image-1.png",
+             "image":"./image/best/image-1.png",
              "number":"1",
              "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
              "link":"#" 
           },
            {
             "id":2,
-             "image":"./public/image/best/image-2.png",
+             "image":"./image/best/image-2.png",
              "number":"2",
              "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
              "link":"#" 
@@ -2364,7 +2364,7 @@
            {
             "id":3,
             "type":"last",
-            "image":"./public/image/best/image-3.png",
+            "image":"./image/best/image-3.png",
             "number":"3",
             "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
             "link":"#" 
@@ -2378,14 +2378,14 @@
        "cards":[
           {
             "id":1,
-             "image":"./public/image/best/image-1.png",
+             "image":"./image/best/image-1.png",
              "number":"1",
              "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
              "link":"#" 
           },
            {
             "id":2,
-             "image":"./public/image/best/image-2.png",
+             "image":"./image/best/image-2.png",
              "number":"2",
              "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
              "link":"#" 
@@ -2393,7 +2393,7 @@
            {
             "id":3,
             "type":"last",
-            "image":"./public/image/best/image-3.png",
+            "image":"./image/best/image-3.png",
             "number":"3",
             "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
             "link":"#" 
@@ -2407,14 +2407,14 @@
        "cards":[
           {
             "id":1,
-             "image":"./public/image/best/image-1.png",
+             "image":"./image/best/image-1.png",
              "number":"1",
              "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
              "link":"#" 
           },
            {
             "id":2,
-             "image":"./public/image/best/image-2.png",
+             "image":"./image/best/image-2.png",
              "number":"2",
              "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
              "link":"#" 
@@ -2422,7 +2422,7 @@
            {
             "id":3,
             "type":"last",
-            "image":"./public/image/best/image-3.png",
+            "image":"./image/best/image-3.png",
             "number":"3",
             "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
             "link":"#" 
@@ -2436,14 +2436,14 @@
        "cards":[
           {
             "id":1,
-             "image":"./public/image/best/image-1.png",
+             "image":"./image/best/image-1.png",
              "number":"1",
              "description":"کالباس 60 درصد قارچ و مرغ مهيا پروتئين - 250 گرم",
              "link":"#" 
           },
            {
             "id":2,
-             "image":"./public/image/best/image-2.png",
+             "image":"./image/best/image-2.png",
              "number":"2",
              "description":"گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت",
              "link":"#" 
@@ -2451,7 +2451,7 @@
            {
             "id":3,
             "type":"last",
-            "image":"./public/image/best/image-3.png",
+            "image":"./image/best/image-3.png",
             "number":"3",
             "description":"پاوربانک شیائومی مدل Redmi ظرفیت 20000 میلی‌آمپرساعت به همراه کابل تبدیل microUSB",
             "link":"#" 
@@ -2466,10 +2466,10 @@
  ],
   "footer":{
     "goup":{
-      "logo":"./public/image/svg/header-serch-logo.svg",
+      "logo":"./image/svg/header-serch-logo.svg",
       "cta":{
           "text":"بازگشت به بالا",
-          "svg":"./public/image/svg/footer-up-arrow.svg"
+          "svg":"./image/svg/footer-up-arrow.svg"
       }
      },
     "tell":{
@@ -2480,31 +2480,31 @@
       { 
         "id":1,
         "title":"امکان تحویل اکسپرس",
-        "icon":"./public/image/svg/footer-express.svg",
+        "icon":"./image/svg/footer-express.svg",
         "link":"#"
       },
        { 
         "id":2,
         "title":"امکان پرداخت در محل",
-        "icon":"./public/image/svg/footer-payment.svg",
+        "icon":"./image/svg/footer-payment.svg",
         "link":"#"
       },
         { 
         "id":3,
         "title":"۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
-        "icon":"./public/image/svg/footer-response.svg",
+        "icon":"./image/svg/footer-response.svg",
         "link":"#"
       },
         { 
         "id":4,
         "title":"هفت روز ضمانت بازگشت کالا",
-        "icon":"./public/image/svg/footer-return.svg",
+        "icon":"./image/svg/footer-return.svg",
         "link":"#"
       },
         { 
         "id":5,
         "title":"ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ",
-        "icon":"./public/image/svg/footer-original.svg",
+        "icon":"./image/svg/footer-original.svg",
         "link":"#"
       }
     ],
@@ -2603,10 +2603,10 @@
         "type":"last",
         "title":"همراه ما باشید!",
         "social":[
-          {"id":1,"icon":"./public/image/svg/insta.svg","link":"#"},
-          {"id":2,"icon":"./public/image/svg/twitt.svg","link":"#"},
-          {"id":3,"icon":"./public/image/svg/linkedin.svg","link":"#"},
-          {"id":4,"icon":"./public/image/svg/aparat.svg","link":"#"}
+          {"id":1,"icon":"./image/svg/insta.svg","link":"#"},
+          {"id":2,"icon":"./image/svg/twitt.svg","link":"#"},
+          {"id":3,"icon":"./image/svg/linkedin.svg","link":"#"},
+          {"id":4,"icon":"./image/svg/aparat.svg","link":"#"}
         ],
         "email":{
           "title":"با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید",
@@ -2616,13 +2616,13 @@
      }
    ],
    "app":{
-    "logo":"./public/image/app/app-logo.png",
+    "logo":"./image/app/app-logo.png",
     "title":"دانلود اپلیکیشن دیجی‌کالا",
     "links": [
-        {"id":0 ,"store": "bazzar", "icon": "./public/image/svg/app-bazzar.svg", "link": "#" },
-        {"id":1 , "store": "myket", "icon": "./public/image/svg/app-myket.svg", "link": "#" },
-        {"id":2 , "store": "sib", "icon": "./public/image/svg/app-sib.svg", "link": "#" },
-        {"id":3 , "store": "more", "icon": "./public/image/svg/app-More.svg", "link": "#" }
+        {"id":0 ,"store": "bazzar", "icon": "./image/svg/app-bazzar.svg", "link": "#" },
+        {"id":1 , "store": "myket", "icon": "./image/svg/app-myket.svg", "link": "#" },
+        {"id":2 , "store": "sib", "icon": "./image/svg/app-sib.svg", "link": "#" },
+        {"id":3 , "store": "more", "icon": "./image/svg/app-More.svg", "link": "#" }
       ]
 
    },
@@ -2632,19 +2632,19 @@
     "descriptionlight":"یکی از مهم‌ترین دغدغه‌های کاربران دیجی‌کالا یا هر فروشگاه‌ اینترنتی دیگری، این است که کالای  خریداری شده چه زمانی به دستشان می‌رسد. دیجی‌کالا شیوه‌های مختلفی از ارسال را متناسب با فروشنده کالا،‌ مقصد کالا و   همچنین نوع کالا در اختیار کاربران خود قرار می‌دهد...",
     "cta":{
       "text":"مشاهده بیشتر",
-      "svg":"./public/image/svg/gallery-observ.svg",
+      "svg":"./image/svg/gallery-observ.svg",
       "link":"#"    
     },
     "icons":[
       {
         "id":0,
-        "img": "./public/image/footer-explanation/rezi.png",
+        "img": "./image/footer-explanation/rezi.png",
         "alt": "rezi",
         "link": "#"
       },
       {
         "id":1,
-        "img": "./public/image/footer-explanation/kasbokar.png",
+        "img": "./image/footer-explanation/kasbokar.png",
         "alt": "kasbokar",
         "link": "#"
       },
@@ -2659,60 +2659,60 @@
    "rule":"برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق اين وب‌سايت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است.",
    "partners":[
      {"id":0,
-      "img":"./public/image/svg/digimag.svg",
+      "img":"./image/svg/digimag.svg",
       "alt":"mag",
       "link":"#"
      },
      {"id":1,
-      "img":"./public/image/svg/digipay.svg",
+      "img":"./image/svg/digipay.svg",
       "alt":"pay",
       "link":"#"
      },{"id":2,
-      "img":"./public/image/svg/digistyle.svg",
+      "img":"./image/svg/digistyle.svg",
       "alt":"style",
       "link":"#"
      },{"id":3,
-      "img":"./public/image/svg/digiplus.svg",
+      "img":"./image/svg/digiplus.svg",
       "alt":"plus",
       "link":"#"
      },{"id":4,
-      "img":"./public/image/svg/digiclub.svg",
+      "img":"./image/svg/digiclub.svg",
       "alt":"club",
       "link":"#"
      },{"id":5,
-      "img":"./public/image/svg/digijet.svg",
+      "img":"./image/svg/digijet.svg",
       "alt":"jet",
       "link":"#"
      },{"id":6,
-      "img":"./public/image/svg/digiMehr.svg",
+      "img":"./image/svg/digiMehr.svg",
       "alt":"mehr",
       "link":"#"
      },{"id":7,
-      "img":"./public/image/svg/diginext.svg",
+      "img":"./image/svg/diginext.svg",
       "alt":"next",
       "link":"#"
      },{"id":8,
-      "img":"./public/image/svg/digiexpress.svg",
+      "img":"./image/svg/digiexpress.svg",
       "alt":"express",
       "link":"#"
      },{"id":9,
-      "img":"./public/image/svg/ganjeh.svg",
+      "img":"./image/svg/ganjeh.svg",
       "alt":"ganjeh",
       "link":"#"
      },{"id":10,
-      "img":"./public/image/svg/digify.svg",
+      "img":"./image/svg/digify.svg",
       "alt":"digify",
       "link":"#"
      },{"id":11,
-      "img":"./public/image/svg/smartech.svg",
+      "img":"./image/svg/smartech.svg",
       "alt":"smartech",
       "link":"#"
      },{"id":12,
-      "img":"./public/image/svg/digikala-business.svg",
+      "img":"./image/svg/digikala-business.svg",
       "alt":"business",
       "link":"#"
      },{"id":13,
-      "img":"./public/image/svg/digikala-service.svg",
+      "img":"./image/svg/digikala-service.svg",
       "alt":"service",
       "link":"#"
      }
