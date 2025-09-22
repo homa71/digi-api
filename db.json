@@ -1,6 +1,6 @@
 {
     "banner":[
-        {"id":1,"image":"./public/image/header-banner/header-banner-gif.gif","alt":"banner"}
+        {"id":1,"image":"./dist/image/header-banner/header-banner-gif.gif","alt":"banner"}
     ],
       "slogo":[
         {"id":1,"image":"./public/image/svg/header-serch-logo.svg","alt":"logo"}
