@@ -2633,12 +2633,10 @@
     "cta":[
       {"id":0,
         "text":"مشاهده بیشتر",
-      "svg":"./image/svg/gallery-observ.svg",
-      "link":"#"}, 
+      "svg":"./image/svg/gallery-observ.svg"}, 
       {"id":1,
         "text":"بستن",
-      "svg":"./image/svg/gallery-observ.svg",
-      "link":"#"}   
+      "svg":"./image/svg/gallery-observ.svg"}   
     ],
     "icons":[
       {
