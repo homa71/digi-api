@@ -2883,7 +2883,11 @@
     "id":1,
     "type":"top",
     "title":"داغ ترین چند ساعت گذشته",
-    "svg":"./image/svg/best.svg"
+    "svg":"./image/svg/best.svg",
+    "cta": {
+"text": "مشاهده همه",
+"link": "#"
+}
   },
   {
     "id":2,
