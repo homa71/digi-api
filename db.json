@@ -2064,7 +2064,8 @@
        "ctatext":"مشاهده همه",
        "link":"#"
      }
-  ],"product":[
+  ],
+  "product":[
      {
       "id":0,
       "type":"top",
@@ -2184,22 +2185,104 @@
     }
     
   ],
+  "favorite":[
+     {
+    "id":0,
+    "type":"top",
+    "title":"محبوب‌ترین برندها",
+    "svg":"./image/svg/favorite-center-top-star.svg"
+   },
+   {
+    "id":1,
+    "type":"bottom",
+    "image":[
+      {
+        "id":0,
+          "src": "./image/favorite/favorite-1.png",
+         "link":"#"
+        },
+         {
+        "id":1,
+          "src": "./image/favorite/favorite-2.png",
+         "link":"#"
+        },
+         {
+        "id":2,
+          "src": "./image/favorite/favorite-3.png",
+         "link":"#"
+        },
+        {
+        "id":3,
+          "src": "./image/favorite/favorite-1.png",
+         "link":"#"
+        },
+         {
+        "id":4,
+          "src": "./image/favorite/favorite-2.png",
+         "link":"#"
+        },
+         {
+        "id":5,
+          "src": "./image/favorite/favorite-3.png",
+         "link":"#"
+        },
+        {
+        "id":6,
+          "src": "./image/favorite/favorite-1.png",
+         "link":"#"
+        },
+         {
+        "id":7,
+          "src": "./image/favorite/favorite-2.png",
+         "link":"#"
+        },
+         {
+        "id":8,
+          "src": "./image/favorite/favorite-3.png",
+         "link":"#"
+        },
+        {
+        "id":9,
+          "src": "./image/favorite/favorite-1.png",
+         "link":"#"
+        },
+         {
+        "id":10,
+          "src": "./image/favorite/favorite-2.png",
+         "link":"#"
+        },
+         {
+        "id":11,
+         "src": "./image/favorite/favorite-3.png",
+         "link":"#",
+         "type":"last"
+        }
+    ]
+
+   }
+
+  ],
   "gallery":[
     {
       "id":1,
       "title": "کیف و کاور گوشی",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./image/gallery/gallery-1.png",
+        {"id":0,
+          "src": "./image/gallery/gallery-1.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-2.png",
+         {"id":1,
+          "src": "./image/gallery/gallery-2.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-3.png",
+         {
+          "id":2,
+          "src": "./image/gallery/gallery-3.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-4.png",
+         {"id":3,
+          "src": "./image/gallery/gallery-4.png",
          "link":"#"
          }
      ],
@@ -2214,16 +2297,20 @@
       "title": "گوشی موبایل",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./image/gallery/gallery-5.png",
+        {"id":0,
+          "src": "./image/gallery/gallery-5.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-6.png",
+         {"id":1,
+          "src": "./image/gallery/gallery-6.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-7.png",
+         {"id":2,
+          "src": "./image/gallery/gallery-7.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-8.png",
+         {"id":3,
+          "src": "./image/gallery/gallery-8.png",
          "link":"#"
          }
      ],
@@ -2238,16 +2325,24 @@
       "title": "کیف و کاور گوشی",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./image/gallery/gallery-1.png",
+        {
+          "id":0,
+          "src": "./image/gallery/gallery-1.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-2.png",
+         {
+          "id":1,
+          "src": "./image/gallery/gallery-2.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-3.png",
+         { 
+          "id":2,
+          "src": "./image/gallery/gallery-3.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-4.png",
+         {
+          "id":3,
+          "src": "./image/gallery/gallery-4.png",
          "link":"#"
          }
      ],
@@ -2263,16 +2358,24 @@
       "title": "گوشی موبایل",
       "subtitle": "بر اساس سلیقه شما",
       "image": [
-        {"src": "./image/gallery/gallery-5.png",
+        {
+          "id":0,
+          "src": "./image/gallery/gallery-5.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-6.png",
+         {
+          "id":1,
+          "src": "./image/gallery/gallery-6.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-7.png",
+         {
+          "id":2,
+          "src": "./image/gallery/gallery-7.png",
          "link":"#"
          },
-         {"src": "./image/gallery/gallery-8.png",
+         {
+          "id":3,
+          "src": "./image/gallery/gallery-8.png",
          "link":"#"
          }
      ],
@@ -2475,6 +2578,540 @@
       }
     ]
   }
+ ],
+ "gallerySecond":[
+    {
+      "id":1,
+      "title": "لپ تاپ و الترابوک",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"id":0,
+          "src": "./image/gallery-second/gallery-1.png",
+         "link":"#"
+         },
+         {"id":1,
+          "src": "./image/gallery-second/gallery-2.png",
+         "link":"#"
+         },
+         {
+          "id":2,
+          "src": "./image/gallery-second/gallery-1.png",
+         "link":"#"
+         },
+         {"id":3,
+          "src": "./image/gallery-second/gallery-2.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./image/svg/gallery-observ.svg"
+   }
+},
+    {
+      "id":2,
+      "title": "جوراب مردانه",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"id":0,
+          "src": "./image/gallery-second/gallery-3.png",
+         "link":"#"
+         },
+         {"id":1,
+          "src": "./image/gallery-second/gallery-4.png",
+         "link":"#"
+         },
+         {
+          "id":2,
+          "src": "./image/gallery-second/gallery-3.png",
+         "link":"#"
+         },
+         {"id":3,
+          "src": "./image/gallery-second/gallery-4.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./image/svg/gallery-observ.svg"
+   }
+},
+   {
+      "id":1,
+      "title": "لپ تاپ و الترابوک",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"id":0,
+          "src": "./image/gallery-second/gallery-1.png",
+         "link":"#"
+         },
+         {"id":1,
+          "src": "./image/gallery-second/gallery-2.png",
+         "link":"#"
+         },
+         {
+          "id":2,
+          "src": "./image/gallery-second/gallery-1.png",
+         "link":"#"
+         },
+         {"id":3,
+          "src": "./image/gallery-second/gallery-2.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./image/svg/gallery-observ.svg"
+   }
+},
+    {
+      "id":2,
+      "title": "جوراب مردانه",
+      "subtitle": "بر اساس سلیقه شما",
+      "image": [
+        {"id":0,
+          "src": "./image/gallery-second/gallery-3.png",
+         "link":"#"
+         },
+         {"id":1,
+          "src": "./image/gallery-second/gallery-4.png",
+         "link":"#"
+         },
+         {
+          "id":2,
+          "src": "./image/gallery-second/gallery-3.png",
+         "link":"#"
+         },
+         {"id":3,
+          "src": "./image/gallery-second/gallery-4.png",
+         "link":"#"
+         }
+     ],
+    "cta": {
+    "text": "مشاهده",
+    "link": "#",
+    "svg": "./image/svg/gallery-observ.svg"
+   }
+}
+
+ ],
+ "sale":[
+    {
+      "id":0,
+      "type":"top",
+      "title":"منتخب محصولات تخفیف و حراج",
+      "svg":"./image/svg/sale-0percent.svg"
+     },
+     {
+      "id":1,
+      "type":"bottom",
+      "card":[
+        {
+          "id":0,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":1,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":2,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":3,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":4,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":5,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":6,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":7,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":8,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":9,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":10,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":11,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":12,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":13,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":14,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":15,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":16,
+          "link":"#",
+          "img":"./image/sale/image-1.png",
+          "percent":"6%",
+          "number":"6,349,000",
+          "numberLine":"6,765,000",
+          "svg":"./image/svg/tooman.svg"
+        },
+         {
+          "id":17,
+          "link":"#",
+          "img":"image/sale/image-2.png",
+          "percent":"6%",
+          "number":"26,499,000",
+          "numberLine":"28,299,000",
+          "svg":"./image/svg/tooman.svg"
+        }
+        
+      ]
+
+
+     }
+
+ ],
+ "bestSecond":[
+   {
+    "id":1,
+    "type":"top",
+    "title":"داغ ترین چند ساعت گذشته",
+    "svg":"./image/svg/best.svg"
+  },
+  {
+    "id":2,
+    "type":"bottom",
+    "slides":[
+      {"id":1,
+       "cards":[
+          {
+            "id":1,
+             "image":"./image/best-second/image-1.png",
+             "number":"1",
+             "description":"ساعت هوشمند ایکس او مدل XO-J6",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./image/best-second/image-2.png",
+             "number":"2",
+             "description":"کتاب زندگی نامرئی ادی لارو اثر وی ای شواب ترجمه مائده نصیری شریفی نشر میلکان",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./image/best-second/image-3.png",
+            "number":"3",
+            "description":"ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل ساواج دیور حجم 100 میلی لیتر",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+       {"id":2,
+       "cards":[
+         {
+            "id":1,
+             "image":"./image/best-second/image-1.png",
+             "number":"1",
+             "description":"ساعت هوشمند ایکس او مدل XO-J6",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./image/best-second/image-2.png",
+             "number":"2",
+             "description":"کتاب زندگی نامرئی ادی لارو اثر وی ای شواب ترجمه مائده نصیری شریفی نشر میلکان",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./image/best-second/image-3.png",
+            "number":"3",
+            "description":"ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل ساواج دیور حجم 100 میلی لیتر",
+            "link":"#" 
+          }
+        
+
+       ]
+      
+
+      },
+      {"id":3,
+       "cards":[
+           {
+            "id":1,
+             "image":"./image/best-second/image-1.png",
+             "number":"1",
+             "description":"ساعت هوشمند ایکس او مدل XO-J6",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./image/best-second/image-2.png",
+             "number":"2",
+             "description":"کتاب زندگی نامرئی ادی لارو اثر وی ای شواب ترجمه مائده نصیری شریفی نشر میلکان",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./image/best-second/image-3.png",
+            "number":"3",
+            "description":"ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل ساواج دیور حجم 100 میلی لیتر",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":4,
+       "cards":[
+          {
+            "id":1,
+             "image":"./image/best-second/image-1.png",
+             "number":"1",
+             "description":"ساعت هوشمند ایکس او مدل XO-J6",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./image/best-second/image-2.png",
+             "number":"2",
+             "description":"کتاب زندگی نامرئی ادی لارو اثر وی ای شواب ترجمه مائده نصیری شریفی نشر میلکان",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./image/best-second/image-3.png",
+            "number":"3",
+            "description":"ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل ساواج دیور حجم 100 میلی لیتر",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":5,
+       "cards":[
+          {
+            "id":1,
+             "image":"./image/best-second/image-1.png",
+             "number":"1",
+             "description":"ساعت هوشمند ایکس او مدل XO-J6",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./image/best-second/image-2.png",
+             "number":"2",
+             "description":"کتاب زندگی نامرئی ادی لارو اثر وی ای شواب ترجمه مائده نصیری شریفی نشر میلکان",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./image/best-second/image-3.png",
+            "number":"3",
+            "description":"ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل ساواج دیور حجم 100 میلی لیتر",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      },
+      {"id":6,
+       "cards":[
+           {
+            "id":1,
+             "image":"./image/best-second/image-1.png",
+             "number":"1",
+             "description":"ساعت هوشمند ایکس او مدل XO-J6",
+             "link":"#" 
+          },
+           {
+            "id":2,
+             "image":"./image/best-second/image-2.png",
+             "number":"2",
+             "description":"کتاب زندگی نامرئی ادی لارو اثر وی ای شواب ترجمه مائده نصیری شریفی نشر میلکان",
+             "link":"#" 
+          },
+           {
+            "id":3,
+            "type":"last",
+            "image":"./image/best-second/image-3.png",
+            "number":"3",
+            "description":"ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل ساواج دیور حجم 100 میلی لیتر",
+            "link":"#" 
+          }
+
+       ]
+      
+
+      }
+    ]
+  }
+
+
+ ],
+ "readable":[
+   {
+    "id":1,
+    "type":"top",
+    "title":"خواندنی‌ها",
+    "cta":{
+      "text":"مطالب بیشتر در دیجی‌کالا مگ",
+      "svg":"./image/svg/gallery-observ.svg",
+      "link":"#"
+    }
+  },
+  {
+    "id":2,
+    "type":"bottom",
+     "card":[
+      {
+        "id":0,
+        "link":"#",
+        "img":"./image/readable/image-1.png",
+        "description":"۷ ساعت مچی زنانه که در بلک فرایدی دیجی کالا ارزش خرید دارد"
+      },
+       {
+        "id":1,
+        "link":"#",
+        "img":"./image/readable/image-2.png",
+        "description":"با خرید کارت هدیه بلک فرایدی ۱۴۰۳ دیجی‌کالا، با یک تیر دو نشان"
+      },
+       {
+        "id":2,
+        "link":"#",
+        "img":"./image/readable/image-1.png",
+        "description":"۷ ساعت مچی زنانه که در بلک فرایدی دیجی کالا ارزش خرید دارد"
+      },
+       {
+        "id":3,
+        "link":"#",
+        "img":"./image/readable/image-2.png",
+        "description":"با خرید کارت هدیه بلک فرایدی ۱۴۰۳ دیجی‌کالا، با یک تیر دو نشان"
+      }
+     ]
+
+  }
+
  ],
   "footer":{
     "goup":{
